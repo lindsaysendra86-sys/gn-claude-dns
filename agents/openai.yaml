@@ -1,0 +1,4 @@
+interface:
+  display_name: "gn-claude-dns"
+  short_description: "为 Shadowrocket 用户检查 Claude 本地残留、DNS、WebRTC 与分流"
+  default_prompt: "使用 $gn-claude-dns 检查并准备我的 Claude 使用环境，保留现有网络和其他应用，按实际证据逐项验收。"
